@@ -12,3 +12,5 @@
 ## Link Embed
 
 <img src="./test.svg">
+
+Change to pick up SVG link change
