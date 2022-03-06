@@ -11,6 +11,6 @@
 
 ## Link Embed
 
-<img src="./test-trans.svg">
+<img src="./deployment_roles.svg">
 
 Change to pick up SVG link change
